@@ -1,0 +1,11 @@
+id,question,optionA,optionB,optionC,optionD,correctOption,timeLimitSeconds
+1,"What is the capital of India?","Mumbai","New Delhi","Kolkata","Chennai",B,25
+2,"Which data structure uses FIFO?","Stack","Queue","Tree","Graph",B,20
+3,"What keyword creates an object in Java?","class","new","this","extends",B,25
+4,"Which method is entry for a Java program?","start()","main()","init()","run()",B,30
+5,"Which loop executes body at least once?","for","while","do-while","none",C,20
+6,"What does JVM stand for?","Java Variable Manager","Java Virtual Machine","Java Visual Module","Joint Virtual Machine",B,25
+7,"Which declaration for array is valid?","int[] a;","array<int> a;","int a[];","Both A and C",D,25
+8,"Keyword to inherit class?","implements","extends","inherits","uses",B,30
+9,"Which collection allows duplicates?","Set","Map","List","None",C,20
+10,"Which exception is checked?","NullPointerException","IOException","ArithmeticException","ArrayIndexOutOfBoundsException",B,30
