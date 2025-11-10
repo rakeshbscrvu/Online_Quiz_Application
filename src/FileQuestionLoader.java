@@ -5,8 +5,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class FileQuestionLoader {
-    // CSV format:
-    // id,question,optionA,optionB,optionC,optionD,correctOption,timeLimitSeconds
     public List<Question> loadQuestions(String path) throws Exception {
         List<Question> list = new ArrayList<>();
         File file = new File(path);
