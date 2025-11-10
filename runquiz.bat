@@ -1,3 +1,4 @@
+
 @echo off
 title Running QuizApp (safe compile)
 cd "%~dp0src"
